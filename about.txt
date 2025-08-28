@@ -1,3 +1,0 @@
-Name : Manognya Nama
-Course : BSC-Computer Science
-About GitHub : It’s a collaborative version control system. It allows multiple developers to work on the same project, track changes through commits, and manage contributions via branches and pull requests without overwriting each other’s work.
