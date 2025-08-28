@@ -1,3 +1,0 @@
-Name : Manognya Nama
-Course : BSC-Computer Science
-About GitHub : It’s a collaborative version control system. 
